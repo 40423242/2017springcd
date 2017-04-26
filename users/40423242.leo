@@ -269,7 +269,7 @@
 </t>
 <t tx="leo.20170426175903.7"># 影片
 
-&lt;iframe src="https://player.vimeo.com/214818832" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214818832" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20170426175903.8">&lt;section data-markdown&gt;
