@@ -131,7 +131,7 @@ Exit
 &lt;p&gt;2017springcd_bg8: &lt;a href="https://mde2a2.kmol.info/cdbg8"&gt;https://mde2a2.kmol.info/cdbg8&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;單桿機構&lt;/h3&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="../data/image/W4.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/W4.png" width="800" /&gt;&lt;/p&gt;
 &lt;h3&gt;問題&lt;/h3&gt;
 
 &lt;p&gt;這次GitHub又發生跟上次一樣推送出現問題，要刪除 plugin 下的 liquid_tags 目錄。&lt;p&gt;
@@ -208,9 +208,9 @@ print("學生總數:", n)
 
 &lt;h3&gt;Solvespace與V-REP&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="../data/image/W2-1.png" width="800" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="../data/image/W2-2.png" width="800" /&gt;&lt;/p&gt;
-&lt;iframe src="../data/image/W2.html" width="800" height="480"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src="../data/W2-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/W2-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;iframe src="../data/W2.html" width="800" height="480"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;影片&lt;/h3&gt;
 
