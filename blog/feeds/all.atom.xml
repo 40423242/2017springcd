@@ -4,8 +4,6 @@
 
 &lt;p&gt;Solvespace&lt;/p&gt;
 
-&lt;h3&gt;影片&lt;/h3&gt;
-
 &lt;p&gt;四連桿機構協同 Trace Point 查驗&lt;/p&gt;
 
 &lt;p&gt;四連桿四足行走機構&lt;/p&gt;
@@ -44,20 +42,16 @@ fossil push https://user@10.0.0.130 &lt;/pre&gt;
 
 &lt;h3&gt;Solvespace&lt;/h3&gt;
 
-&lt;h3&gt;影片&lt;/h3&gt;
-
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;。&lt;/p&gt;</summary><category term="Fossil 推送檔案和Solvespace完成八連桿機構跟用V-rep模擬"></category></entry><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T22:00:00+08:00</published><updated>2017-03-29T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;p&gt;V-rep 模擬 Onebar&lt;/p&gt;
-&lt;h3&gt;影片&lt;/h3&gt;
-
+&lt;p&gt;利用Fossil 推送與管理，需要再了解。&lt;/p&gt;</summary><category term="Fossil 推送檔案和Solvespace完成八連桿機構跟用V-rep模擬"></category></entry><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T22:00:00+08:00</published><updated>2017-03-29T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;p&gt;V-rep 模擬 Onebar&lt;/p&gt;
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;。&lt;p&gt;</summary><category term="V-rep 模擬 Oneba"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T22:00:00+08:00</published><updated>2017-03-22T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;p&gt;Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar&lt;/p&gt;
+&lt;p&gt;這禮拜加入Dummy，變得有點複雜。&lt;p&gt;</summary><category term="V-rep 模擬 Oneba"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T22:00:00+08:00</published><updated>2017-03-22T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;p&gt;Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar&lt;/p&gt;
 &lt;h3&gt;Fossil SCM 與 Stunnel 啟動整合&lt;/h3&gt;
 
 &lt;p&gt;1. 更改 Start.bat 設定&lt;/p&gt;
@@ -120,13 +114,11 @@ Exit
 
 &lt;p&gt;只要在wiki裡新增一個與倉儲筆記同名稱的檔案，即可在fossil筆記倉儲主頁顯示作業&lt;/p&gt;
 
-&lt;h3&gt;影片&lt;/h3&gt;
-
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;。&lt;p&gt;</summary><category term="Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T22:00:00+08:00</published><updated>2017-03-15T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;p&gt;建立協同主機和單桿機構組件&lt;/p&gt;
+&lt;p&gt;V-REP是一個可以模擬轉動的軟體。&lt;p&gt;</summary><category term="Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T22:00:00+08:00</published><updated>2017-03-15T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;p&gt;建立協同主機和單桿機構組件&lt;/p&gt;
 &lt;p&gt;&lt;h3&gt;建立協同主機 2017springcd_bg8&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;2017springcd_bg8: &lt;a href="https://mde2a2.kmol.info/cdbg8"&gt;https://mde2a2.kmol.info/cdbg8&lt;/a&gt;&lt;/p&gt;
 
@@ -153,6 +145,8 @@ Exit
 &lt;h3&gt;Onshape&lt;/h3&gt;
 
 &lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214864108" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 

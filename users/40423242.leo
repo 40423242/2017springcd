@@ -95,15 +95,12 @@
 <v t="leo.20170426175917.15"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170426175922.1"><vh>20170322</vh>
+<v t="leo.20170426175922.1" a="E"><vh>20170322</vh>
 <v t="leo.20170426175922.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175922.3"><vh>日期</vh></v>
 </v>
 <v t="leo.20170426175922.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170426175922.5"><vh>上課內容</vh></v>
-</v>
-<v t="leo.20170426175922.6" a="E"><vh>影片</vh>
-<v t="leo.20170426175922.7"><vh>影片</vh></v>
 </v>
 <v t="leo.20170426175922.8" a="E"><vh>心得</vh>
 <v t="leo.20170426175922.9"><vh>心得</vh></v>
@@ -116,22 +113,16 @@
 <v t="leo.20170426175927.4"><vh>上課內容</vh>
 <v t="leo.20170426175927.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170426175927.6" a="E"><vh>影片</vh>
-<v t="leo.20170426175927.7"><vh>影片</vh></v>
-</v>
 <v t="leo.20170426175927.8" a="E"><vh>心得</vh>
 <v t="leo.20170426175927.9"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170426175933.1"><vh>20170405</vh>
+<v t="leo.20170426175933.1" a="E"><vh>20170405</vh>
 <v t="leo.20170426175933.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175933.3"><vh>日期</vh></v>
 </v>
 <v t="leo.20170426175933.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170426175933.5"><vh>上課內容</vh></v>
-</v>
-<v t="leo.20170426175933.6" a="E"><vh>影片</vh>
-<v t="leo.20170426175933.7"><vh>影片</vh></v>
 </v>
 <v t="leo.20170426175933.8" a="E"><vh>心得</vh>
 <v t="leo.20170426175933.9"><vh>心得</vh></v>
@@ -155,10 +146,7 @@
 <v t="leo.20170426175943.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170426175943.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170426175943.6" a="E"><vh>影片</vh>
-<v t="leo.20170426175943.7"><vh>影片</vh></v>
-</v>
-<v t="leo.20170426175943.8" a="E"><vh>心得</vh>
+<v t="leo.20170426175943.8"><vh>心得</vh>
 <v t="leo.20170426175943.9"><vh>心得</vh></v>
 </v>
 </v>
@@ -354,7 +342,7 @@
 </t>
 <t tx="leo.20170426175912.11"># 心得
 
-這是第三次上課，要開始畫圖了，畫圖的話跟之前一樣但這學期的wiki要在不同的地方編輯，感覺怪怪的，但用久就習慣了。
+這次上課用ONSHAPE畫上節課畫的四連桿機構。
 </t>
 <t tx="leo.20170426175912.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -391,7 +379,7 @@
 </t>
 <t tx="leo.20170426175912.7"># 影片
 
-&lt;iframe src="https://player.vimeo.com/video/214845249" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214864108" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170426175917.1">&lt;section&gt;
 @others
@@ -410,7 +398,7 @@
 </t>
 <t tx="leo.20170426175917.15"># 心得
 
-這是第四次上課，跟上禮拜一樣在畫圖，但這次還多了要創建自己組的協同主機。還好滿簡單的。
+這禮拜繪製簡單的單桿機構。
 </t>
 <t tx="leo.20170426175917.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -481,16 +469,6 @@
 
 
 </t>
-<t tx="leo.20170426175922.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20170426175922.7"># 影片
-
-</t>
 <t tx="leo.20170426175922.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -504,7 +482,7 @@
 </t>
 <t tx="leo.20170426175922.9"># 心得
 
-這是第五次上課，老師教我們如何在fossil筆記倉儲主頁顯示作業，並利用Solvespace讓四桿機構轉動，今天學的真多。
+V-REP是一個可以模擬轉動的軟體。
 </t>
 <t tx="leo.20170426175927.1">&lt;section&gt;
 @others
@@ -534,16 +512,6 @@
 
 
 </t>
-<t tx="leo.20170426175927.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20170426175927.7"># 影片
-
-</t>
 <t tx="leo.20170426175927.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -557,7 +525,7 @@
 </t>
 <t tx="leo.20170426175927.9"># 心得
 
-這是第六次上課，這次跟上次一樣，只是用不同的軟體開啟而已，真是簡單。
+這禮拜加入Dummy，變得有點複雜。
 </t>
 <t tx="leo.20170426175933.1">&lt;section&gt;
 @others
@@ -588,17 +556,6 @@
 2.利用Solvespace完成八連桿機構
 
 3.利用V-rep完成八連桿機構</t>
-<t tx="leo.20170426175933.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20170426175933.7"># 影片
-
-
-</t>
 <t tx="leo.20170426175933.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -612,7 +569,7 @@
 </t>
 <t tx="leo.20170426175933.9"># 心得
 
-&lt;p&gt;這是第七次上課，跟之前一樣畫圖，只是這次比較多，而且這次有教Fossil推送檔案，學的真多。&lt;/p&gt;
+&lt;p&gt;利用Fossil 推送與管理，需要再了解。&lt;/p&gt;
 </t>
 <t tx="leo.20170426175937.1">&lt;section&gt;
 @others
@@ -682,17 +639,6 @@
 <t tx="leo.20170426175943.5"># 上課內容
 
 1.期中測驗
-
-
-</t>
-<t tx="leo.20170426175943.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20170426175943.7"># 影片
 
 
 </t>
