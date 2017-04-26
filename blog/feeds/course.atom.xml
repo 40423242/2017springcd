@@ -155,6 +155,8 @@ Exit
 
 &lt;h3&gt;影片&lt;/h3&gt;
 
+&lt;iframe src="https://player.vimeo.com/video/214818832" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
@@ -211,6 +213,8 @@ print("學生總數:", n)
 
 &lt;h3&gt;影片&lt;/h3&gt;
 
+&lt;iframe src="https://player.vimeo.com/video/214845249" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
@@ -218,7 +222,7 @@ print("學生總數:", n)
 &lt;p&gt;第二次上課時，講解了這學期的目標，要分組合作出一個機構，另外也教了如何用程式碼找出缺課組員。&lt;p&gt;</summary><category term="分組座位和四連桿機構"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T22:00:00+08:00</published><updated>2017-02-22T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;p&gt;Stunnel.conf IP設定&lt;/p&gt;
 &lt;h3&gt;影片&lt;/h3&gt;
 
-&lt;iframe src="https://player.vimeo.com/214818832" width="600" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214818832" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 

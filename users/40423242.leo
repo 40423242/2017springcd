@@ -39,7 +39,7 @@
 <v t="leo.20170426175854.1"><vh>快捷鍵</vh>
 <v t="leo.20170426175854.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170426175903.1" a="E"><vh>20170222</vh>
+<v t="leo.20170426175903.1"><vh>20170222</vh>
 <v t="leo.20170426175903.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175903.3"><vh>日期</vh></v>
 </v>
@@ -53,14 +53,14 @@
 <v t="leo.20170426175903.9"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170426175908.1"><vh>20170301</vh>
+<v t="leo.20170426175908.1" a="E"><vh>20170301</vh>
 <v t="leo.20170426175908.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175908.3"><vh>日期</vh></v>
 </v>
 <v t="leo.20170426175908.4"><vh>上課內容</vh>
 <v t="leo.20170426175908.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170426175908.6"><vh>影片</vh>
+<v t="leo.20170426175908.6" a="E"><vh>影片</vh>
 <v t="leo.20170426175908.7"><vh>影片</vh></v>
 </v>
 <v t="leo.20170426175908.8" a="E"><vh>心得</vh>
@@ -326,7 +326,7 @@
 </t>
 <t tx="leo.20170426175908.7"># 影片
 
-
+&lt;iframe src="https://player.vimeo.com/video/214845249" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170426175908.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -341,7 +341,7 @@
 </t>
 <t tx="leo.20170426175908.9"># 心得
 
-第二次上課時，講解了這學期的目標，要分組合作出一個機構，另外也教了如何用程式碼找出缺課組員。
+第二次上課利用SolverSpace畫四連桿，另外也教了如何用程式碼找出缺課組員。
 </t>
 <t tx="leo.20170426175912.1">&lt;section&gt;
 @others
@@ -395,7 +395,7 @@
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170426175912.7"># 影片1
+<t tx="leo.20170426175912.7"># 影片
 
 </t>
 <t tx="leo.20170426175917.1">&lt;section&gt;
