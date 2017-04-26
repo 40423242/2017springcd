@@ -53,7 +53,7 @@
 <v t="leo.20170426175903.9"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170426175908.1" a="E"><vh>20170301</vh>
+<v t="leo.20170426175908.1"><vh>20170301</vh>
 <v t="leo.20170426175908.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175908.3"><vh>日期</vh></v>
 </v>
@@ -81,7 +81,7 @@
 <v t="leo.20170426175912.11"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170426175917.1"><vh>20170315</vh>
+<v t="leo.20170426175917.1" a="E"><vh>20170315</vh>
 <v t="leo.20170426175917.2" a="E"><vh>日期</vh>
 <v t="leo.20170426175917.3"><vh>日期</vh></v>
 </v>
@@ -90,12 +90,6 @@
 </v>
 <v t="leo.20170426175917.6" a="E"><vh>影片</vh>
 <v t="leo.20170426175917.7"><vh>影片</vh></v>
-</v>
-<v t="leo.20170426175917.10" a="E"><vh>問題</vh>
-<v t="leo.20170426175917.11"><vh>問題</vh></v>
-</v>
-<v t="leo.20170426175917.12" a="E"><vh>解決辦法</vh>
-<v t="leo.20170426175917.13"><vh>解決辦法</vh></v>
 </v>
 <v t="leo.20170426175917.14" a="E"><vh>心得</vh>
 <v t="leo.20170426175917.15"><vh>心得</vh></v>
@@ -397,41 +391,11 @@
 </t>
 <t tx="leo.20170426175912.7"># 影片
 
+&lt;iframe src="https://player.vimeo.com/video/214845249" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170426175917.1">&lt;section&gt;
 @others
 &lt;/section&gt;
-</t>
-<t tx="leo.20170426175917.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170426175917.11"># 問題
-
-這次GitHub又發生跟上次一樣推送出現問題。
-</t>
-<t tx="leo.20170426175917.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170426175917.13"># 解決辦法
-
-刪除 plugin 下的 liquid_tags 目錄
-
 </t>
 <t tx="leo.20170426175917.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -481,8 +445,9 @@
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170426175917.7"># 影片1
+<t tx="leo.20170426175917.7"># 影片
 
+&lt;iframe src="https://player.vimeo.com/video/214851007" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170426175922.1">&lt;section&gt;
 @others

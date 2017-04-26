@@ -130,18 +130,17 @@ Exit
 &lt;p&gt;&lt;h3&gt;建立協同主機 2017springcd_bg8&lt;/h3&gt;&lt;/p&gt;
 &lt;p&gt;2017springcd_bg8: &lt;a href="https://mde2a2.kmol.info/cdbg8"&gt;https://mde2a2.kmol.info/cdbg8&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;h3&gt;單桿機構&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/image/W4.png" width="800" /&gt;&lt;/p&gt;
 &lt;h3&gt;問題&lt;/h3&gt;
 
-&lt;p&gt;這次GitHub又發生跟上次一樣推送出現問題。&lt;p&gt;
+&lt;p&gt;這次GitHub又發生跟上次一樣推送出現問題，要刪除 plugin 下的 liquid_tags 目錄。&lt;p&gt;
 
-&lt;h3&gt;解決辦法&lt;/h3&gt;
-&lt;p&gt;刪除 plugin 下的 liquid_tags 目錄&lt;p&gt;
 
-&lt;img src="../data/image/W4-5.png" width="800" /&gt;
 
 &lt;h3&gt;影片&lt;/h3&gt;
 
-
+&lt;iframe src="https://player.vimeo.com/video/214851007" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
@@ -150,18 +149,16 @@ Exit
 
 
 &lt;h3&gt;心得&lt;/h3&gt;
-&lt;p&gt;。\&lt;p&gt;</summary><category term="建立協同主機和單桿機構組件"></category></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-08T22:00:00+08:00</published><updated>2017-03-08T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-08:./Week 3.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
-&lt;h3&gt;Solvespace&lt;/h3&gt;
+&lt;p&gt;這禮拜繪製簡單的單桿機構，在推送時又發生問題了。&lt;p&gt;</summary><category term="建立協同主機和單桿機構組件"></category></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-08T22:00:00+08:00</published><updated>2017-03-08T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-08:./Week 3.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+&lt;h3&gt;Onshape&lt;/h3&gt;
 
 &lt;h3&gt;影片&lt;/h3&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/214818832" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;&lt;a href="https://vimeo.com/user60353473"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;這次上課畫了一個四連桿機構。&lt;p&gt;</summary><category term="四連桿機構"></category></entry><entry><title>Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T22:00:00+08:00</published><updated>2017-03-01T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;p&gt;分組座位和四連桿機構&lt;/p&gt;
+&lt;p&gt;這次上課用ONSHAPE畫上節課畫的四連桿機構。&lt;p&gt;</summary><category term="四連桿機構"></category></entry><entry><title>Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T22:00:00+08:00</published><updated>2017-03-01T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;p&gt;分組座位和四連桿機構&lt;/p&gt;
 &lt;h3&gt;分組座位原始碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
@@ -209,7 +206,11 @@ print("學生總數:", n)
 #print(os.environ)
 &lt;/pre&gt;
 
-&lt;h3&gt;Solvespace&lt;/h3&gt;
+&lt;h3&gt;Solvespace與V-REP&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W2-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="../data/image/W2-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;iframe src="../data/image/W2.html" width="800" height="480"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;影片&lt;/h3&gt;
 
@@ -219,7 +220,7 @@ print("學生總數:", n)
 
 &lt;h3&gt;心得&lt;/h3&gt;
 
-&lt;p&gt;第二次上課時，講解了這學期的目標，要分組合作出一個機構，另外也教了如何用程式碼找出缺課組員。&lt;p&gt;</summary><category term="分組座位和四連桿機構"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T22:00:00+08:00</published><updated>2017-02-22T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;p&gt;Stunnel.conf IP設定&lt;/p&gt;
+&lt;p&gt;第二次上課利用SolverSpace畫四連桿，另外也教了如何用程式碼找出缺課組員。&lt;p&gt;</summary><category term="分組座位和四連桿機構"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T22:00:00+08:00</published><updated>2017-02-22T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;p&gt;Stunnel.conf IP設定&lt;/p&gt;
 &lt;h3&gt;影片&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/214818832" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
