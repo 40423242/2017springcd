@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Authors - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
+    <title>Week 2 - 2017Spring 協同產品設計實習 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,15 +166,21 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
+<link rel="canonical" href="./Week 2.html">
 
-        <meta name="author" content="KMOL" />
+        <meta name="author" content="40423242" />
+        <meta name="keywords" content="分組座位和四連桿機構" />
+        <meta name="description" content="分組座位和四連桿機構 分組座位原始碼 #import os adata = open(&#34;w2b_cadlab.txt&#34;, encoding=&#34;utf-8&#34;).read() #讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼 rdata = open(&#34;w2b_registered.txt&#34;, encoding=&#34;utf-8&#34;).read().splitlines() #print(adata) #用print 先檢查資料是否是我們需要的 alist = adata.splitlines() #利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列 #print(alist[2]) n = 0 row = 0 final_list = [] w2_list = [] for stud_num in alist ..." />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="2017Spring 協同產品設計實習 (虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Week 2"/>
+        <meta property="og:url" content="./Week 2.html"/>
+        <meta property="og:description" content="分組座位和四連桿機構 分組座位原始碼 #import os adata = open(&#34;w2b_cadlab.txt&#34;, encoding=&#34;utf-8&#34;).read() #讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼 rdata = open(&#34;w2b_registered.txt&#34;, encoding=&#34;utf-8&#34;).read().splitlines() #print(adata) #用print 先檢查資料是否是我們需要的 alist = adata.splitlines() #利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列 #print(alist[2]) n = 0 row = 0 final_list = [] w2_list = [] for stud_num in alist ..."/>
+        <meta property="article:published_time" content="2017-03-01" />
+            <meta property="article:section" content="Course" />
+            <meta property="article:tag" content="分組座位和四連桿機構" />
+            <meta property="article:author" content="40423242" />
 
 
     <!-- Bootstrap -->
@@ -255,7 +261,7 @@ init_mathjax();
                          <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
+                        <li class="active">
                             <a href="./category/course.html">Course</a>
                         </li>
             </ul>
@@ -277,9 +283,97 @@ init_mathjax();
     <div class="row">
         <div class="col-sm-9">
 
-    <h1>Authors on 2017Spring 協同產品設計實習 (虎尾科大MDE)</h1>
-        <li><a href="./author/40423242.html">40423242</a> (9)</li>
-        <li><a href="./author/yen.html">yen</a> (4)</li>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./Week 2.html"
+                       rel="bookmark"
+                       title="Permalink to Week 2">
+                        Week 2
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-03-01T22:00:00+08:00"> Wed 01 March 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423242.html"><i class="fa fa-user"></i> 40423242</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/fen-zu-zuo-wei-he-si-lian-gan-ji-gou.html">分組座位和四連桿機構</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <p>分組座位和四連桿機構</p>
+<h3>分組座位原始碼</h3>
+
+<pre class="brush: python">
+#import os
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#用print 先檢查資料是否是我們需要的
+alist = adata.splitlines()
+#利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列
+#print(alist[2])
+n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:
+#從第2列開始, 因為第0列和第1列都不是我們要的
+    row = row + 1
+    blist = stud_num.split("\t")
+    #print(blist)
+    column = 0
+    #為了避免序號連續, 利用column = 0 將順序重製, 因為每一列算完之後要換下一列重新開始
+    for i in range(len(blist)):
+        column = column + 1
+        if blist[i] != "":
+            #print(blist[i])
+            clist = blist[i].split("_")
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+            final_list.append(stud_data)
+            w2_list.append(clist[1])
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)
+#print(os.environ)
+</pre>
+
+<h3>Solvespace</h3>
+
+<h3>影片</h3>
+
+<h3><a href="https://vimeo.com/user60353473">個人影片區</a></h3>
+
+<h3>心得</h3>
+
+<p>第二次上課時，講解了這學期的目標，要分組合作出一個機構，另外也教了如何用程式碼找出缺課組員。<p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>

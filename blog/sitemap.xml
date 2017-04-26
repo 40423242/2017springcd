@@ -5,42 +5,98 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-02-21T17:31:40-00:00</lastmod>
+<lastmod>2017-04-26T17:41:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-02-21T17:31:40-00:00</lastmod>
+<lastmod>2017-04-26T17:41:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-02-21T17:31:40-00:00</lastmod>
+<lastmod>2017-04-26T17:41:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-02-21T17:31:40-00:00</lastmod>
+<lastmod>2017-04-26T17:41:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-02-07T10:18:21+08:00</lastmod>
+<lastmod>2017-04-26T16:57:58+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./brython-2d-drawing.html</loc>
-<lastmod>2017-02-22T11:00:00+08:00</lastmod>
+<loc>./Week 9.html</loc>
+<lastmod>2017-04-19T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 8.html</loc>
+<lastmod>2017-04-12T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 7.html</loc>
+<lastmod>2017-04-05T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 6.html</loc>
+<lastmod>2017-03-29T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 5.html</loc>
+<lastmod>2017-03-22T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 4.html</loc>
+<lastmod>2017-03-15T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 3.html</loc>
+<lastmod>2017-03-08T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 2.html</loc>
+<lastmod>2017-03-01T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./Week 1.html</loc>
+<lastmod>2017-02-22T22:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,21 +131,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/course.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<lastmod>2017-04-19T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/fossil-scm.html</loc>
-<lastmod>2017-02-17T11:00:00+08:06</lastmod>
+<loc>./tag/zi-ping.html</loc>
+<lastmod>2017-04-12T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/syllabus.html</loc>
-<lastmod>2017-01-08T11:00:00+08:06</lastmod>
+<loc>./tag/si-lian-gan-ji-gou.html</loc>
+<lastmod>2017-03-08T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/fen-zu-zuo-wei-he-si-lian-gan-ji-gou.html</loc>
+<lastmod>2017-03-01T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/stunnelconf-ipshe-ding.html</loc>
+<lastmod>2017-02-22T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -102,8 +172,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/qi-zhong-ce-yan.html</loc>
+<lastmod>2017-04-19T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/brython.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<lastmod>2017-02-07T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/fossil-scm.html</loc>
+<lastmod>2017-02-17T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/fossil-tui-song-dang-an-he-solvespacewan-cheng-ba-lian-gan-ji-gou-gen-yong-v-repmo-ni.html</loc>
+<lastmod>2017-04-05T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/syllabus.html</loc>
+<lastmod>2017-01-08T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/jian-li-xie-tong-zhu-ji-he-dan-gan-ji-gou-zu-jian.html</loc>
+<lastmod>2017-03-15T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w1.html</loc>
+<lastmod>2017-02-07T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -116,15 +228,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w1.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<loc>./tag/v-rep-mo-ni-oneba.html</loc>
+<lastmod>2017-03-29T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/fossil-scm-yu-stunnel-qi-dong-zheng-he-gen-xian-shi-zuo-ye-he-zai-v-rep-mo-ni-fourbar.html</loc>
+<lastmod>2017-03-22T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/40423242.html</loc>
+<lastmod>2017-04-19T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/yen.html</loc>
-<lastmod>2017-02-22T11:00:00+08:06</lastmod>
+<lastmod>2017-02-17T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
