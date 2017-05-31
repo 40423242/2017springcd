@@ -155,7 +155,13 @@ n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
-&lt;/script&gt;</summary><category term="期中測驗"></category></entry><entry><title>Week 9</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T22:00:00+08:00</published><updated>2017-04-19T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;期中測驗&lt;/p&gt;
+
+ctx.beginPath()
+ctx.fillStyle = "   #2894FF"
+ctx.font = "30px ScriptS"
+ctx.fillText("40423242 ",410,300)
+ctx.stroke()
+&lt;/script&gt;</summary></entry><entry><title>Week 9</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T22:00:00+08:00</published><updated>2017-04-19T22:00:00+08:00</updated><author><name>40423242</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;期中測驗&lt;/p&gt;
 &lt;h3&gt;四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
 &lt;p&gt;Solvespace&lt;/p&gt;
